@@ -1,5 +1,5 @@
 # SmartTraffic-UCArpooling
-Repositorio correspondiente al desarrollo de la parte cliente de la herramienta UCArpooling, uno de los casos de estudio dentro del marco proyecto SmartTraffic.
+Repository corresponding to the development of the client part of the UCArpooling tool, one of the case studies within the SmartTraffic project framework.
 
 ## REQUIREMENTS
 
